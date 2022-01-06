@@ -1,0 +1,17 @@
+#Task1
+print("Task1")
+a=int(input("Enter number 1:"))
+b=int(input("Enter number 2:"))
+print(f"Reminder of {a} and {b} is {a%b}")
+print(f" Exponent of {a} and {b} is {a**b}")
+print(f" Floor Division of {a} and {b} is {a//b}")
+#Task2
+print("Task2")
+a=int(input("Enter number 1"))
+b=int(input("Enter number 2"))
+print(f"Is a equal to b (True : False): {a==b} ")
+print(f"Is a  not equal to b (True :  False): {a!=b} ")
+print(f"Is a is greater than b (True :  False): {a>b} ")
+print(f"Is a is less than b (True :  False): {a<b} ")
+print(f"Is a is greater than equal to b (True :  False): {a>=b} ")
+print(f"Is a is less than equal to b (True :  False): {a<=b} ")
